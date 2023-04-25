@@ -1,0 +1,16 @@
+#test {
+  width: 150px;
+}
+
+.form-control {
+  width: 150px;
+}
+#addBtn{
+  background: green;
+}
+h2,h3,h4{
+  color: red;
+}
+footer{
+  color: grey;
+}
